@@ -1,0 +1,110 @@
+c:\users\u21992\documents\visual studio 2015\Projects\STM-PDA-System\STM-PDA-System\bin\Debug\STM-PDA-System.exe.config
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System.csprojResolveAssemblyReference.cache
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\MainWindow.g.cs
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\App.g.cs
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System_MarkupCompile.cache
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System_MarkupCompile.lref
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\bin\Debug\STM-PDA-System.exe
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\bin\Debug\STM-PDA-System.pdb
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\MainWindow.baml
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System.g.resources
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\STM_PDA_System.Properties.Resources.resources
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System.csproj.GenerateResource.Cache
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System.exe
+C:\Users\u21992\Documents\Visual Studio 2015\Projects\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System.pdb
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\MainWindow.g.cs
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\App.g.cs
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\MainWindow.baml
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\STM_PDA_System.Properties.Resources.resources
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System.csproj.GenerateResource.Cache
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\MasterInput\wMaster.g.cs
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\MasterInput\wMaster.baml
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\Style\ButtonControl.baml
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\MasterInput\ButtonControl.baml
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe.config
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\bin\Debug\KIO-BOARD LED.pdb
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.cache
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.lref
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\KIO-BOARD LED.g.resources
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\KIO-BOARD LED.exe
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\KIO-BOARD LED.pdb
+D:\Program develop\SMT project\STM-PDA-System\STM-PDA-System\obj\Debug\STM-PDA-System.csprojResolveAssemblyReference.cache
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe.config
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.exe
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.pdb
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.pdb
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\ButtonControl.baml
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\Style\ButtonControl.baml
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MainWindow.g.cs
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\wMaster.g.cs
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\App.g.cs
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.cache
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.lref
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MainWindow.baml
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\wMaster.baml
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.g.resources
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM_PDA_System.Properties.Resources.resources
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM-PDA-System.csproj.GenerateResource.Cache
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\EntityFramework.dll
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\EntityFramework.xml
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe.config
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.exe
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.pdb
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.pdb
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\EntityFramework.dll
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\EntityFramework.xml
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM-PDA-System.csprojResolveAssemblyReference.cache
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\ButtonControl.baml
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\Style\ButtonControl.baml
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MainWindow.g.cs
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\wMaster.g.cs
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\App.g.cs
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.cache
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.lref
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MainWindow.baml
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\wMaster.baml
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.g.resources
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM_PDA_System.Properties.Resources.resources
+G:\New folder\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM-PDA-System.csproj.GenerateResource.Cache
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe.config
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.exe
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.pdb
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.pdb
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\EntityFramework.dll
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\bin\Debug\EntityFramework.xml
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\ButtonControl.baml
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\Style\ButtonControl.baml
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MainWindow.g.cs
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\wMaster.g.cs
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\App.g.cs
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.cache
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.lref
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MainWindow.baml
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\wMaster.baml
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.g.resources
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM_PDA_System.Properties.Resources.resources
+G:\Anh Pham\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM-PDA-System.csproj.GenerateResource.Cache
+D:\Program develop\SMT project\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM-PDA-System.csprojResolveAssemblyReference.cache
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe.config
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.exe
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.pdb
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.exe
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\bin\Debug\KIO-BOARD LED.pdb
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\bin\Debug\EntityFramework.dll
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\bin\Debug\EntityFramework.xml
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\ButtonControl.baml
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\Style\ButtonControl.baml
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\MainWindow.g.cs
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\wMaster.g.cs
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\App.g.cs
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.cache
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED_MarkupCompile.lref
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\MainWindow.baml
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\MasterInput\wMaster.baml
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\KIO-BOARD LED.g.resources
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM_PDA_System.Properties.Resources.resources
+C:\Users\u17583\Desktop\Ban SL WIP kio\STM-PDA-System\obj\Debug\STM-PDA-System.csproj.GenerateResource.Cache

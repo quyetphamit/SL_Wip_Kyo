@@ -1,0 +1,29 @@
+﻿<Window x:Class="STM_PDA_System.MasterInput.wMaster"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:STM_PDA_System.MasterInput"
+        mc:Ignorable="d"
+        Title="wMaster" Height="500" Width="1000">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ButtonControl.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="10,0,0,0">
+            <TextBlock Text="Chọn dữ liệu  " VerticalAlignment="Center" FontSize="20" FontWeight="Bold"/>
+            <ComboBox Name="cbTypeData" Width="200" Height="40" DisplayMemberPath="display" SelectedValuePath="values"
+                      FontSize="20"/>
+            <Button Name="btUpdate" Content="Sửa DL" Height="40" Width="120" Margin="20,0,0,0" FontSize="20" Style="{DynamicResource buttonCustorm}"/>
+        </StackPanel>
+        <DataGrid Grid.Row="1" Margin="10,0,10,10" Name="dgUpdate" FontSize="16"  />
+    </Grid>
+</Window>
